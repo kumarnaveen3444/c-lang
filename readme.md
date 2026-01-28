@@ -10,4 +10,9 @@
 
 	float explicitFloat = (float)1/2;
 	printf("%f",explicitFloat);  ---- 0.5
-	
+### Data Types
+	int
+	float
+	double
+	char
+	long
