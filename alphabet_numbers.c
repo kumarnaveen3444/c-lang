@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.h> // For isalpha() and toupper()
+#include <ctype.h> 
 
 int main() {
     char ch;
